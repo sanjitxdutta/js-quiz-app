@@ -41,6 +41,6 @@ js-quiz-app/
 ```
 
 # Clone the repository
-git clone https://github.com/your-username/js-quiz-app.git
+git clone https://github.com/sanjitxdutta/js-quiz-app.git
 
 # Open index.html in your browser
